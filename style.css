@@ -1,0 +1,11 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+canvas {
+    display: block;
+    left: 50% !important;
+    top: 50% !important;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
